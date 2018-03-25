@@ -1,0 +1,6 @@
+/bitrix
+/upload
+.idea/*
+.idea
+dbconn.php
+.settings.php

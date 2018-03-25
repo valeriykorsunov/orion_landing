@@ -1,0 +1,6 @@
+.partners__item div {
+	background-repeat: no-repeat !important;
+	-webkit-background-size: 100% !important;
+	background-size: 100% !important;
+	background-position: center center !important;
+}

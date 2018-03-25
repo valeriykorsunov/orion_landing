@@ -1,0 +1,2 @@
+npoorion.tmweb.ru [Wed Dec 13 19:08:18 2017] [error] [pid 30745] sapi_apache2.c(326): [client 93.188.43.4:49014] PHP Parse error:  syntax error, unexpected '[' in /home/n/npoorion/public_html/ajax.php on line 62
+npoorion.tmweb.ru [Wed Dec 13 19:08:19 2017] [error] [pid 30777] sapi_apache2.c(326): [client 93.188.43.4:49082] PHP Parse error:  syntax error, unexpected '[' in /home/n/npoorion/public_html/ajax.php on line 62
